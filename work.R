@@ -1,4 +1,4 @@
-rm(list=ls(all=TRUE))
+###rm(list=ls(all=TRUE))
 setwd("/Users/Arpat/Documents/Work/Rotifer/0908_Shane")
 
 load("work.Rda")
